@@ -1,7 +1,7 @@
 # lambda-youtube-dl
 This is a thin wrapper over youtube-dl to download youtube videos using AWS Lambda and storing it in S3
 
-# What?
+# What is this project about?
 I find myself downloading youtube videos in my laptop and then... not persisting them/loosing them to clear up space. So I figured I would need these features:
 1. Long term storage
 2. Ease of access/maintanability
